@@ -68,6 +68,4 @@ print(territorio_para_str(territorio_exemplo))
 ## Erros e Exceções
 Caso algum argumento inválido seja fornecido às funções, um erro `ValueError` será levantado para indicar a falha.
 
-## Autor
-Marta Costa Braga - ist1110034
 
